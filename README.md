@@ -1,7 +1,5 @@
 ## Hi there my name is Sebastian Øen
 
-- I'm currently learning about frontend technologies at Noroff
-
 
 
 [My LinkedIn page](https://www.linkedin.com/in/sebastian-%C3%B8en-06b470234/) 
